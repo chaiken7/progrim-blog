@@ -1,0 +1,168 @@
+[07-Jan-2023 02:55:23 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 22
+[07-Jan-2023 02:55:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 22
+[07-Jan-2023 02:55:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 22
+[07-Jan-2023 02:55:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 22
+[09-Jan-2023 22:53:32 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[09-Jan-2023 23:18:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pg_add_menus" not found or invalid function name in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Fede\Local Sites\progrim\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\Fede\Local Sites\progrim\app\public\wp-config.php(93): require_once('C:\\Users\\Fede\\L...')
+#4 C:\Users\Fede\Local Sites\progrim\app\public\wp-load.php(50): require_once('C:\\Users\\Fede\\L...')
+#5 C:\Users\Fede\Local Sites\progrim\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Fede\\L...')
+#6 C:\Users\Fede\Local Sites\progrim\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Fede\\L...')
+#7 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php on line 308
+[09-Jan-2023 23:18:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pg_add_menus" not found or invalid function name in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Fede\Local Sites\progrim\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\Fede\Local Sites\progrim\app\public\wp-config.php(93): require_once('C:\\Users\\Fede\\L...')
+#4 C:\Users\Fede\Local Sites\progrim\app\public\wp-load.php(50): require_once('C:\\Users\\Fede\\L...')
+#5 C:\Users\Fede\Local Sites\progrim\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Fede\\L...')
+#6 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php on line 308
+[09-Jan-2023 23:18:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pg_add_menus" not found or invalid function name in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Fede\Local Sites\progrim\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\Fede\Local Sites\progrim\app\public\wp-config.php(93): require_once('C:\\Users\\Fede\\L...')
+#4 C:\Users\Fede\Local Sites\progrim\app\public\wp-load.php(50): require_once('C:\\Users\\Fede\\L...')
+#5 C:\Users\Fede\Local Sites\progrim\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Fede\\L...')
+#6 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php on line 308
+[09-Jan-2023 23:19:06 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pg_add_menus" not found or invalid function name in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Fede\Local Sites\progrim\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\Fede\Local Sites\progrim\app\public\wp-config.php(93): require_once('C:\\Users\\Fede\\L...')
+#4 C:\Users\Fede\Local Sites\progrim\app\public\wp-load.php(50): require_once('C:\\Users\\Fede\\L...')
+#5 C:\Users\Fede\Local Sites\progrim\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Fede\\L...')
+#6 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-hook.php on line 308
+[10-Jan-2023 23:25:05 UTC] PHP Warning:  Undefined variable $articulos in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 119
+[10-Jan-2023 23:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:119
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 119
+[10-Jan-2023 23:41:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_post_thumbnail" in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:124
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 124
+[11-Jan-2023 21:50:02 UTC] PHP Warning:  Undefined variable $productos in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:16
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:50:14 UTC] PHP Warning:  Undefined variable $productos in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:16
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:50:22 UTC] PHP Warning:  Undefined variable $productos in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:16
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 16
+[11-Jan-2023 21:53:54 UTC] PHP Warning:  Undefined variable $productos in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 17
+[11-Jan-2023 21:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_post() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:17
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 17
+[24-Jan-2023 23:33:14 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 494
+[24-Jan-2023 23:44:44 UTC] PHP Warning:  Undefined variable $articulo in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[24-Jan-2023 23:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:349
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[24-Jan-2023 23:44:51 UTC] PHP Warning:  Undefined variable $articulo in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[24-Jan-2023 23:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:349
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[24-Jan-2023 23:45:09 UTC] PHP Warning:  Undefined variable $articulo in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[24-Jan-2023 23:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php:349
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 349
+[30-Jan-2023 22:36:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_category(), 0 passed in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 30 and at least 1 expected in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category.php:91
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php(30): get_category()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#3 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#4 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category.php on line 91
+[30-Jan-2023 22:53:57 UTC] PHP Warning:  Array to string conversion in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\index.php on line 30
+[31-Jan-2023 23:03:53 UTC] PHP Warning:  Undefined variable $btmetanm in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 8
+[31-Jan-2023 23:03:53 UTC] PHP Warning:  Undefined variable $postslist in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php:13
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:05:07 UTC] PHP Warning:  Undefined variable $historia in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 8
+[31-Jan-2023 23:05:07 UTC] PHP Warning:  Undefined variable $postslist in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php:13
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:05:46 UTC] PHP Warning:  Undefined variable $historia in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 8
+[31-Jan-2023 23:05:46 UTC] PHP Warning:  Undefined variable $postslist in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php:13
+Stack trace:
+#0 C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Fede\Local Sites\progrim\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Fede\\L...')
+#2 C:\Users\Fede\Local Sites\progrim\app\public\index.php(17): require('C:\\Users\\Fede\\L...')
+#3 {main}
+  thrown in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 13
+[31-Jan-2023 23:17:25 UTC] PHP Warning:  Undefined variable $args in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 6
+[31-Jan-2023 23:20:00 UTC] PHP Warning:  Undefined variable $args in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\category.php on line 6
+[01-Feb-2023 00:12:22 UTC] PHP Fatal error:  Cannot redeclare wp_tag_cloud() (previously declared in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category-template.php:716) in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 83
+[01-Feb-2023 00:12:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[01-Feb-2023 00:12:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[01-Feb-2023 00:12:23 UTC] PHP Fatal error:  Cannot redeclare wp_tag_cloud() (previously declared in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category-template.php:716) in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 83
+[01-Feb-2023 00:12:24 UTC] PHP Fatal error:  Cannot redeclare wp_tag_cloud() (previously declared in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category-template.php:716) in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 83
+[01-Feb-2023 01:08:13 UTC] PHP Fatal error:  Cannot redeclare get_the_tags() (previously declared in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category-template.php:1176) in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 96
+[01-Feb-2023 01:08:13 UTC] PHP Fatal error:  Cannot redeclare get_the_tags() (previously declared in C:\Users\Fede\Local Sites\progrim\app\public\wp-includes\category-template.php:1176) in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\functions.php on line 96
+[01-Feb-2023 01:17:18 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\single.php on line 37
+[01-Feb-2023 01:27:56 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\single.php on line 37
+[19-Feb-2023 00:55:16 UTC] PHP Warning:  Undefined variable $tags in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\single.php on line 115
+[19-Feb-2023 00:55:16 UTC] PHP Warning:  Undefined variable $backup in C:\Users\Fede\Local Sites\progrim\app\public\wp-content\themes\progrim\single.php on line 128
+[23-Feb-2023 23:12:03 UTC] WordPress database error Duplicate entry '5-0' for key 'PRIMARY' for query INSERT INTO `wp_yoast_indexable_hierarchy` (`indexable_id`, `ancestor_id`, `depth`, `blog_id`) VALUES ('5', '0', '0', '1') made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WP_REST_Terms_Controller->create_item, WP_REST_Terms_Controller->prepare_item_for_response, WP_REST_Controller->add_additional_fields_to_object, Yoast\WP\SEO\Routes\Yoast_Head_REST_Field->for_term, Yoast\WP\SEO\Actions\Indexables\Indexable_Head_Action->for_term, Yoast\WP\SEO\Actions\Indexables\Indexable_Head_Action->with_404_fallback, Yoast\WP\SEO\Surfaces\Values\Meta->get_head, Yoast\WP\SEO\Surfaces\Values\Meta->create_html_presentation, Yoast\WP\SEO\Presenters\Schema_Presenter->present, Yoast\WP\SEO\Presenters\Schema_Presenter->get, Yoast\WP\SEO\Presentations\Abstract_Presentation->__get, Yoast\WP\SEO\Presentations\Indexable_Presentation->generate_schema, Yoast\WP\SEO\Generators\Schema_Generator->generate, Yoast\WP\SEO\Generators\Schema_Generator->generate_graph, Yoast\WP\SEO\Generators\Schema\Breadcrumb->generate, Yoast\WP\SEO\Presentations\Abstract_Presentation->__get, Yoast\WP\SEO\Presentations\Indexable_Presentation->generate_breadcrumbs, Yoast\WP\SEO\Generators\Breadcrumbs_Generator->generate, Yoast\WP\SEO\Repositories\Indexable_Repository->get_ancestors, Yoast\WP\SEO\Repositories\Indexable_Hierarchy_Repository->find_ancestors, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->build, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->save_ancestors, Yoast\WP\SEO\Repositories\Indexable_Hierarchy_Repository->add_ancestor, Yoast\WP\Lib\Model->save, Yoast\WP\Lib\ORM->save, Yoast\WP\Lib\ORM::execute
